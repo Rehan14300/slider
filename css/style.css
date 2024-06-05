@@ -48,10 +48,11 @@
     
 
   }
-
+  
   .header .dark i{
     font-size: 2rem;
-    cursor:pointer;
+    cursor : pointer;
+   
   }
  
   
